@@ -1,0 +1,10 @@
+barcode,price,size,quantity,product,id
+00000015,R8,35g,20,Cadbury,1
+00000016,R9,35g,15,Tex,2
+00000017,R5,45g,30,P.S,3
+00000018,R8,51g,30,"Bar One",4
+00000019,R10,48g,28,Snikers,5
+00000020,R11,45g,40,KitKat,6
+00000021,R12,51g,42,LunchBar,7
+00000022,R70,45g,25,"Ferrero Rocher",8
+00000023,R35,45g,29,Lindt,9
