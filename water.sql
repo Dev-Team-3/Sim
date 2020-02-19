@@ -1,1 +1,0 @@
-SELECT * FROM sprint3.water;
