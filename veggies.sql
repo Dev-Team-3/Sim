@@ -1,0 +1,9 @@
+barcode,price,size,quantity,product,id
+00000000,R10,3kg,10,Spinach,1
+00000001,R15,5kg,20,Cabbage,2
+00000002,R30,10kg,50,Potatoes,3
+00000003,R13,5kg,50,Tomatoes,4
+00000004,R13,10kg,21,Carrot,5
+00000005,15,5kg,66,Butternut,6
+00000006,R33,10kg,40,Pumkin,7
+00000007,R25,15kg,60,Onions,8
