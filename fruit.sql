@@ -1,0 +1,10 @@
+barcode,price,size,quantity,product,id
+00000060,R3,Regular,50,Pear,1
+00000061,R2,Regular,50,Apple,2
+00000062,R4,Regular,20,Orange,3
+00000063,R2,Regular,100,Banana,4
+00000064,R1.50,Regular,60,Peach,5
+00000065,R12,Regular,50,Pineapple,6
+00000066,R10,Regular,46,Guava,7
+00000067,R12,Regular,110,Grapes,8
+00000068,R15,Regular,60,Strawberries,9
